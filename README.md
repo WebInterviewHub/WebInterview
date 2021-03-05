@@ -24,7 +24,6 @@
 
 # https
 * [1.https的访问过程](https://github.com/WebInterviewHub/WebInterview/blob/main/https.md#1https的访问过程)
-* [详细解释：](https://github.com/WebInterviewHub/WebInterview/blob/main/https.md#详细解释)
 * [2.https的优缺点？](https://github.com/WebInterviewHub/WebInterview/blob/main/https.md#2https的优缺点)
 * [1. 优点](https://github.com/WebInterviewHub/WebInterview/blob/main/https.md#1-优点)
 * [2、缺点](https://github.com/WebInterviewHub/WebInterview/blob/main/https.md#2缺点)
