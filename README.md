@@ -140,6 +140,21 @@
 * [16.disk cache](https://github.com/WebInterviewHub/WebInterview/blob/main/HTTP2%26HTTP缓存.md#16disk-cache)
 
 
+## 跨域
+* [1.什么是跨域](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#1什么是跨域)
+* [2.同源策略](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#2同源策略)
+* [3.为什么有同源策略](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#3为什么有同源策略)
+* [4.跨域的解决方案](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#4跨域的解决方案)
+* [5.jsonp原理](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#5jsonp原理)
+* [6.常见的跨域场景](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#6常见的跨域场景)
+* [7.postMessage跨域](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#7postmessage跨域)
+* [8.资源共享跨域（CORS）](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#8资源共享跨域cors)
+* [9.nginx代理跨域](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#9nginx代理跨域)
+* [10.nodejs中间件代理跨域](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#10nodejs中间件代理跨域)
+* [1、 非vue框架的跨域（2次跨域）](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#1-非vue框架的跨域2次跨域)
+* [2、 vue框架跨域](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#2-vue框架跨域)
+* [11.webscoket协议跨域](https://github.com/WebInterviewHub/WebInterview/blob/main/跨域.md#11webscoket协议跨域)
+
 # Git
 * [1.列举工作中常用的几个git命令？](https://github.com/WebInterviewHub/WebInterview/blob/main/Git.md#1列举工作中常用的几个git命令) 
 * [2. 提交时发生冲突，你能解释冲突是如何产生的吗？你是如何解决的？](https://github.com/WebInterviewHub/WebInterview/blob/main/Git.md#2-提交时发生冲突你能解释冲突是如何产生的吗你是如何解决的)
@@ -158,6 +173,34 @@
 * [14. 如何把本地仓库的内容推向一个空的远程仓库？](https://github.com/WebInterviewHub/WebInterview/blob/main/Git.md#14-如何把本地仓库的内容推向一个空的远程仓库)
 * [15.如在 Git 恢复先前的提交?](https://github.com/WebInterviewHub/WebInterview/blob/main/Git.md#15如在-git-恢复先前的提交)
 * [16.什么是“git cherry-pick”?](https://github.com/WebInterviewHub/WebInterview/blob/main/Git.md#16什么是git-cherry-pick)
+
+
+## 计算机基础
+* [1.CPU基础](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#1cpu基础)
+* [2.CPU与主存](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#2cpu与主存)
+* [3.程序等同数据](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#3程序等同数据)
+* [4.指令系统](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#4指令系统)
+* [5.指令寄存器与程序计数器](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#5指令寄存器与程序计数器)
+* [6.指令如何执行](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#6指令如何执行)
+* [7.控制器](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#7控制器)
+* [8.直接存储器存取](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#8直接存储器存取)
+* [9.什么是程序局部性？为什么会有程序的空间局部性？](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#9什么是程序局部性为什么会有程序的空间局部性)
+* [10.为了实现重定位，需要哪些硬件？](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#10为了实现重定位需要哪些硬件)
+* [11.在交互式系统中，非剥夺是不是一个好的策略？为什么？](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#11在交互式系统中非剥夺是不是一个好的策略为什么)
+* [12.谈一谈计算机网络和分布式计算机系统的区别](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#12谈一谈计算机网络和分布式计算机系统的区别)
+* [13.为什么要引入多道程序技术？](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#13为什么要引入多道程序技术)
+* [14.处理器如何读并解释存储在内存中的指令](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#14处理器如何读并解释存储在内存中的指令)
+* [15.总线](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#15总线)
+* [16.I/O设备](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#16io设备)
+* [17.主存](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#17主存)
+* [18.处理器](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#18处理器)
+* [19.计算机如何访问信息](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#19计算机如何访问信息)
+* [20.什么是操作数指示符](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#20什么是操作数指示符)
+* [21.如何传送数据](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#21如何传送数据)
+* [22.栈数据如何压入和弹出](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#22栈数据如何压入和弹出)
+* [23.如何进行算数和逻辑操作](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#23如何进行算数和逻辑操作)
+* [24.什么是“加载有效地址”](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#24什么是加载有效地址)
+* [25.什么是一元和二元操作](https://github.com/WebInterviewHub/WebInterview/blob/main/计算机基础.md#25什么是一元和二元操作)
 
 
 * [数据结构与算法](https://github.com/WebInterviewHub/WebInterview/blob/main/数据结构与算法.md#数据结构与算法)
