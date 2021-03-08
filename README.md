@@ -1,3 +1,10 @@
+这个Repo主要用来分享前端面试题，目前已经涵盖html&css、bom&dom、js基础、webpack、HTTP、HTTP2&HTTP缓存、跨域、HTTPS、Git、计算机基础、数据结构与算法、性能优化等内容，后续还会不断更新。
+
+如果对于有所帮助，可以给个star。有纰漏的地方，欢迎给我们提PR。
+
+如果想获取本Repo的PDF版本，可以用微信扫描下方二维码，回复 “pdf” ，即可获取。
+<center><img src ="https://gitee.com/WebInterviewHub/WebInterview/raw/master/imgs/%E5%89%8D%E7%AB%AF.jpg" /></center>
+
 ## BOM&DOM
 * [1.BOM事件?](https://github.com/WebInterviewHub/WebInterview/blob/main/BOM%26DOM.md#1bom事件)
 * [2.常见BOM事件?](https://github.com/WebInterviewHub/WebInterview/blob/main/BOM%26DOM.md#2常见bom事件)
